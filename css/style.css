@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+}
+
+body{
+    background: linear-gradient(rgba(90, 69, 69, 0.6), rgba(0, 0, 0, 0.6)),
+    url("../images/5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-family: 'Sriracha',
+    cursive;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+    text-align: center;
+}
+
+h5{
+    font-family: 'PT Sans',
+    sans-serif;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+}
